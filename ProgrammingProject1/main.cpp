@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    cout << "Just testing the commits...\n";
     fstream theFile;
     cout << "fstream object defined...\n";
 
